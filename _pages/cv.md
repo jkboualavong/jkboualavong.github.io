@@ -16,7 +16,16 @@ Education
 * M.Phil. Chemical and Process Engineering, University of Strathclyde, 2019
 * Ph.D. Environmental Engineering, Pennsylvannia State University, 2023 (expected)
 
-Work experience
+Publications
+======
+
+  <ul>{% for post in site.publications reversed limit:2 %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+[More here](https://jkboualavong.github.io/publications/)
+
+Work Experience
 ======
 
 Pennsylvania State University
@@ -37,6 +46,9 @@ University of Rochester
 
 08/2015-05/’17: Biomedical Engineering Peer Advisor (through College Center for Advising Services)
 
+Other Research Experience
+======
+
 Pacific Northwest National Laboratory
 --------------
 
@@ -55,19 +67,10 @@ Colorado State University
   * sensor characterization and optimization
   * assessment of diesel vs biodiesel combustion particulates
 
-Publications
-======
 
-  <ul>{% for post in site.publications reversed limit:2 %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-[More here](https://jkboualavong.github.io/publications/)
-  
 Talks
 ======
-
-  <ul>{% for post in site.talks reversed limit:2 %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
@@ -76,7 +79,7 @@ Talks
 Teaching
 ======
 
-  <ul>{% for post in site.teaching reversed limit:1 %}
+  <ul>{% for post in site.teaching reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
