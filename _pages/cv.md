@@ -70,7 +70,7 @@ Colorado State University
 
 Talks
 ======
-  <ul>{% for post in site.talks reversed limit:1 %}
+  <ul>{% for post in site.talks limit:1 %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
@@ -79,7 +79,7 @@ Talks
 Teaching
 ======
 
-  <ul>{% for post in site.teaching reversed limit:1 %}
+  <ul>{% for post in site.teaching limit:1 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
