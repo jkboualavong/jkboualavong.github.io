@@ -73,7 +73,7 @@ Talks
 {% assign posts = site.talks | reverse %}
 {% assign counter = 0 %}
 {% for post in posts limit:1 %}
-    {% include card.html post=post %}
+    {% include archive-single-talk-cv.html post=post %}
 {% endfor %}
 
 
@@ -81,7 +81,7 @@ Talks
 {% assign counter = 0 %}
 {% for post in posts %}
   {% if counter < 3 and post.categories contains 'featured' and post.path != page.path %}
-    {% include card.html post=post %}
+    {% include archive-single-talk-cv.html post=post %}
     {% assign counter = counter | plus: 1 %}
   {% endif %}
 {% endfor %}
