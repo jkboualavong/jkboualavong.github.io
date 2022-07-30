@@ -58,7 +58,7 @@ Colorado State University
 Publications
 ======
 
-  <ul>{% for post in site.publications limit:2 %}
+  <ul>{% for post in site.publications reversed limit:2 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
