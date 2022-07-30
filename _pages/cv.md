@@ -19,9 +19,15 @@ Education
 Publications
 ======
 
-  <ul>{% for post in site.publications reversed limit:2 %}
-    {% include archive-single-cv.html %}
+  <ul>{% assign posts = site.publications | reverse %}
+  {% assign counter = 0 %}
+  {% for post in posts limit:2 %}
+      {% include archive-single-cv.html post=post %}
   {% endfor %}</ul>
+  
+  {% for post in site.publications reversed limit:2 %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
 
 [More here](https://jkboualavong.github.io/publications/)
 
@@ -70,24 +76,11 @@ Colorado State University
 
 Talks
 ======
-{% assign posts = site.talks | reverse %}
-{% assign counter = 0 %}
-{% for post in posts limit:1 %}
-    {% include archive-single-talk-cv.html post=post %}
-{% endfor %}
 
-
-{% assign posts = site.talks | reverse %}
-{% assign counter = 0 %}
-{% for post in posts %}
-  {% if counter < 3 and post.categories contains 'featured' and post.path != page.path %}
-    {% include archive-single-talk-cv.html post=post %}
-    {% assign counter = counter | plus: 1 %}
-  {% endif %}
-{% endfor %}
-
-  <ul>{% for post in site.talks reversed limit:1 %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% assign posts = site.talks | reverse %}
+  {% assign counter = 0 %}
+  {% for post in posts limit:1 %}
+      {% include archive-single-talk-cv.html post=post %}
   {% endfor %}</ul>
 
 [More here](https://jkboualavong.github.io/talks/)
@@ -95,9 +88,15 @@ Talks
 Teaching
 ======
 
-  <ul>{% for post in site.teaching reversed limit:1 %}
-    {% include archive-single-cv.html %}
+  <ul>{% assign posts = site.teaching | reverse %}
+  {% assign counter = 0 %}
+  {% for post in posts limit:1 %}
+      {% include archive-single-cv.html post=post %}
   {% endfor %}</ul>
+
+  {% for post in site.teaching reversed limit:1 %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
   
 [More here](https://jkboualavong.github.io/teaching/)
 
