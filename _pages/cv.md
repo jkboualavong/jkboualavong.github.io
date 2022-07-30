@@ -60,7 +60,8 @@ Publications
 
 [See here](https://jkboualavong.github.io/publications/)
 
-  <ul>{% for post in site.publications %}
+Most recent publication:
+  <ul>{% for post in 1 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
