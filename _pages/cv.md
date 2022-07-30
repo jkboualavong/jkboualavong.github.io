@@ -58,7 +58,7 @@ Colorado State University
 Publications
 ======
 
-(See here)[https://jkboualavong.github.io/publications/]
+[See here](https://jkboualavong.github.io/publications/)
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
