@@ -70,11 +70,23 @@ Colorado State University
 
 Talks
 ======
-<<<<<<< HEAD
+{% assign posts = site.talks | reverse %}
+{% assign counter = 0 %}
+{% for post in posts limit:1 %}
+    {% include card.html post=post %}
+{% endfor %}
+
+
+{% assign posts = site.talks | reverse %}
+{% assign counter = 0 %}
+{% for post in posts %}
+  {% if counter < 3 and post.categories contains 'featured' and post.path != page.path %}
+    {% include card.html post=post %}
+    {% assign counter = counter | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
   <ul>{% for post in site.talks limit:1 reversed %}
-=======
-  <ul>{% for post in site.talks limit:1 %}
->>>>>>> 1ed33f6bf51e48ad2b919575203e5e5149bb64b5
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
@@ -83,11 +95,7 @@ Talks
 Teaching
 ======
 
-<<<<<<< HEAD
   <ul>{% for post in site.teaching limit:1 reversed %}
-=======
-  <ul>{% for post in site.teaching limit:1 %}
->>>>>>> 1ed33f6bf51e48ad2b919575203e5e5149bb64b5
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
