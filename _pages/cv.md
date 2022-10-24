@@ -88,7 +88,7 @@ Colorado State University
 * PI: Shantanu Jathar (Mech. Eng.) and Charles Henry (Chem.)
 * A Microfluidic Electrochemical Sensor for the Oxidative Load of Particulate Matter
 
-Other Work Experience
+Other Professional Experience
 ======
 
 Pennsylvania State University

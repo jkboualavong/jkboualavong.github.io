@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : # "jkb56@psu.edu"
+  email            : "jkb56@psu.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jkboualavong"
+  github           : # "jkboualavong"
   google_plus      :
   keybase          :
   instagram        :

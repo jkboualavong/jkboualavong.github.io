@@ -9,18 +9,19 @@ redirect_from:
 ---
 
 Jonathan Boualavong (Lao, displaced, settler)$^1$
-dʒɑːnəθɪn buaːlaːvoŋ  
+
+(dʒɑːnəθɪn buaːlaːvoŋ )
 
 I am 
 (1) a research engineer focused on environmentally relevant electro-separations, specifically in treatment of inorganic wastes and pollutants, 
-(2) a pedagogy scholar with an interest in subversive teaching techniques and curricula development that de-centers western epistemologies and dismantles epistemic hierarchies, and 
+(2) a pedagogy scholar with an interest in subversive teaching techniques and curricula development that de-centers dominant epistemologies and dismantles epistemic hierarchies, and 
 (3) an installation artist who uses traditional art objects, written and spoken word, and narrative theory to encourage the confrontation of preconceived biases.
 
 In short, I explore how knowledge can disrupt oppressive systems of harm.
 
 Currently: PhD Candidate in Environmental Engineering at Penn State.
 
-Looking for academic positions starting Fall 2023.
+Looking for academic positions starting Fall 2023. See my abbreviated [research summary](https://jkboualavong.github.io/posts/2022/10/research-statement/)
 
 $^1$ I use the convention of Marisa Duarte (Yaqui), who in *Network Sovereignty* introduces all individuals by their Land relation in parentheses after first inclusion of the name. 
 This practice, often used among Indigenous communities, centers how colonial history affects everyone, but affects communities differently. 
