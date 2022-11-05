@@ -1,6 +1,6 @@
 ---
 title: 'Overview of Research Interests'
-date: 2019-10-25
+date: 2022-10-25
 permalink: /posts/2022/10/research-statement/
 tags:
   - Research
