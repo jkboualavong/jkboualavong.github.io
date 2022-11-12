@@ -4,12 +4,13 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-TA-PSU
 venue: "Penn State University"
-date: 2015-01-01
-location: "City, Country"
+location: "State College, PA, USA"
 ---
 
 Courses:
+-----------------------
 * CE 479: Environmental Microbiology for Engineers
+* CE 472W: Senior Capstone
 
 CE 479: Environmental Microbiology for Engineers
 
@@ -17,3 +18,9 @@ CE 479: Environmental Microbiology for Engineers
 * Fall 2020
 * Course instructor: John (Jay) Regan
 * Additional adaptation of laboratory SOPs for COVID-19 restrictions
+
+CE 472W: Environmental Engineering Capstone Design 
+
+* Graduate Teaching Assistant
+* Spring 2023
+* Course instructor: William Burgos
