@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 
-* B.S. Biomedical Engineering (cell and tissue engineering), University of Rochester, 2017 (T5)
+* B.S. Biomedical Engineering (cell and tissue engineering), University of Rochester, 2017 [(Take 5)](https://www.rochester.edu/college/CCAS/undergraduate/opportunities/takefive/)
 * M.Phil. Chemical and Process Engineering, University of Strathclyde, 2019
-* Ph.D. Environmental Engineering, Pennsylvannia State University, 2023 (expected)
+* Ph.D. Environmental Engineering, Pennsylvannia State University, 2023
 
 Publications
 ======
@@ -49,7 +49,7 @@ Teaching
 [More here](https://jkboualavong.github.io/teaching/)
 
 
-Research Experience
+Employment and Volunteer Experience: Research
 ======
 
 Pennsylvannia State University
@@ -88,7 +88,7 @@ Colorado State University
 * PI: Shantanu Jathar (Mech. Eng.) and Charles Henry (Chem.)
 * A Microfluidic Electrochemical Sensor for the Oxidative Load of Particulate Matter
 
-Other Professional Experience
+Employment and Volunteer Experience: Non-research
 ======
 
 Pennsylvania State University
