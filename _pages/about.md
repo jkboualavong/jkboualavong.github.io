@@ -21,9 +21,9 @@ In short, I explore how knowledge can disrupt oppressive systems of harm.
 
 Currently: Incoming Assistant Professor at University at Buffalo, starting Jan 2024.
 
-Graduate students wanted for Fall 2024! See my abbreviated [research summary](https://jkboualavong.github.io/posts/2022/10/research-statement/) to see what I'm about, as well as my notes about [grad school and applicantion tips](https://jkboualavong.github.io/posts/2023/10/grad-recruitment/). Interested students should apply to the Environmental and Water Resources Engineering program.
+Graduate students wanted for Fall 2024! See my abbreviated [research summary](https://jkboualavong.github.io/posts/2022/10/research-statement/) to see what I'm about, as well as my notes about [grad school and applicantions](https://jkboualavong.github.io/posts/2023/10/grad-recruitment/). Interested students should apply to the UB's Environmental and Water Resources Engineering program.
 
-Some projects of interest:
+Example projects of interest:
 
 * Kinetics of CO2 absorption and desorption in electrochemically regenerated and pH-swing systems
 * Environmental health impacts of electrochemical CO2 capture
@@ -31,7 +31,7 @@ Some projects of interest:
 * Rhetorical and network science analysis of reporting of emerging technologies
 
 Some of these projects are computational, some are lab-based, and some are mixed, and I'm happy to discuss how they can be adapted to your interests and strengths.
-If you have questions, feel free to reach out at the email on the sidebar (will keep up to date as accounts get activated/deactivated).
+If you have questions, feel free to reach out at the email on the sidebar (will keep that up to date as accounts get activated/deactivated).
 
 $^1$ I use the convention of Marisa Duarte (Yaqui), who in *Network Sovereignty* introduces all individuals by their Land relation in parentheses after first inclusion of the name. 
 This practice, often used among Indigenous communities, centers how colonial history affects everyone, but affects communities differently. 
