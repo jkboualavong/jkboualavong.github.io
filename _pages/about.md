@@ -21,7 +21,7 @@ In short, I explore how knowledge can disrupt oppressive systems of harm.
 
 Currently: Incoming Assistant Professor at University at Buffalo, starting Jan 2024.
 
-Graduate students wanted for Fall 2024! See my abbreviated [research summary](https://jkboualavong.github.io/posts/2022/10/research-statement/) to see what I'm about, as well as my notes about [grad school and applicantions](https://jkboualavong.github.io/posts/2023/10/grad-recruitment/). Interested students should apply to the UB's Environmental and Water Resources Engineering program.
+Graduate students wanted for Fall 2024! See my abbreviated [research summary](https://jkboualavong.github.io/posts/2022/10/research-statement/) to see what I'm about, as well as my notes about [grad school and applications](https://jkboualavong.github.io/posts/2023/10/grad-recruitment/). Interested students should apply to the UB's Environmental and Water Resources Engineering program.
 
 Example projects of interest:
 
