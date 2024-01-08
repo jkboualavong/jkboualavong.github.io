@@ -1,6 +1,6 @@
 ---
 title: 'So you want to apply for grad school'
-date: 2022-10-25
+date: 2023-10-25
 permalink: /posts/2023/10/grad-recruitment/
 tags:
   - Research

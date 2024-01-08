@@ -86,8 +86,8 @@ author:
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "jkboua@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=y5QTYjkAAAAJ&hl=en"
+  email            : "jboualav@buffalo.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "kaleidoscopemnd"
+  twitter          : "JustEchmSep"
   vine             :
   weibo            :
   xing             :
